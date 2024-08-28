@@ -9,11 +9,11 @@ to the medical practitioners in this field
 In this research a carefully curated dataset called “Wisconsin Breast Cancer” data is taken from UCI 
 Machine Learning repository  Overall, this 
 dataset has around 569 observations and 32 features with various attributes, represent multiple 
-attributes of the tumour in patients. This dataset contains a target variable that has two classes –
+features of the tumour in patients. This dataset contains a target variable that has two classes –
 benign and malignant.
 
 
-Research Question
+Task:
 1. What are the most important features for classifying malignant tumours from benign tumours 
 using Wisconsin breast cancer data? 
 2. Can unsupervised learning algorithms be used to detect clusters among the data that have an 
