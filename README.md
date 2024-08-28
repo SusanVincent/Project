@@ -7,13 +7,12 @@ The diagnosis of breast cancer is traditionally done using histopathological ana
 to the medical practitioners in this field 
 
 In this research a carefully curated dataset called “Wisconsin Breast Cancer” data is taken from UCI 
-Machine Learning repository  Overall, this 
-dataset has around 569 observations and 32 features with various attributes, represent multiple 
+Machine Learning repository  Overall, the dataset has around 569 observations and 32 features with various attributes, represent multiple 
 features of the tumour in patients. This dataset contains a target variable that has two classes –
 benign and malignant.
 
 
-Task:
+This code aims to:
 1. What are the most important features for classifying malignant tumours from benign tumours 
 using Wisconsin breast cancer data? 
 2. Can unsupervised learning algorithms be used to detect clusters among the data that have an 
